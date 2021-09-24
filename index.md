@@ -27,7 +27,7 @@ Here is a link to [my original README file for this repo](README.md)
 
 Here is [a picture of myself](IMG_8204.JPG)
 
-Here is [another picture of myself](IMG_2678.JPG)
+Here is [another picture of myself](IMG_2678.jpg)
 
 #### Lists
 
