@@ -41,7 +41,7 @@ The following are my favorite programming languages:
 2. Python
 3. C++
 
-The following are courses I want to take in the future:
+The following are courses that I have been wanting to take:
 - [x] CSE 110: Software Engineering
 - [ ] CSE 120: Principles of Computer Operating Systems
 - [ ] CSE 130: Programming Languages: Principles and Paradigms
